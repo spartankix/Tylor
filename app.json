@@ -1,4 +1,4 @@
-  "name": "𝚻𝐘𝐋𝚯𝚪/-2.0",
+0  "name": "𝚻𝐘𝐋𝚯𝚪/-2.0",
   "description": "bot whatsapp déveloped by 𝚻𝐘𝐋𝚯𝚪 𝐊9",
   "keywords": [
     "bot",
@@ -62,7 +62,7 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "𝚻𝐘𝐋𝚯𝚪 𝐊9🇰🇪"
+      "value": "𝚻𝐘𝐋𝚯𝚪K9"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
